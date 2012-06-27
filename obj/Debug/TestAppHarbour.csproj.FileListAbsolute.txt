@@ -1,0 +1,5 @@
+D:\AppHarbour\TestAsp\TestAppHarbour\TestAppHarbour\bin\TestAppHarbour.dll
+D:\AppHarbour\TestAsp\TestAppHarbour\TestAppHarbour\bin\TestAppHarbour.pdb
+D:\AppHarbour\TestAsp\TestAppHarbour\TestAppHarbour\obj\Debug\ResolveAssemblyReference.cache
+D:\AppHarbour\TestAsp\TestAppHarbour\TestAppHarbour\obj\Debug\TestAppHarbour.dll
+D:\AppHarbour\TestAsp\TestAppHarbour\TestAppHarbour\obj\Debug\TestAppHarbour.pdb
